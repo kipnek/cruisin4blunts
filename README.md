@@ -1,3 +1,5 @@
 # cruisin4blunts
 
-going to overhaul a lot of this soon.
+going to add a ton more.
+
+OSINT weenies can go back.
